@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gif/hackerman.gif" height="300" width="600" alt="c logo"/>
+  <img src="ico/hackerman.gif" height="300" width="600" alt="c logo"/>
 </div>
 
 <h1 align="center">Hello! You got my account, so let`s get acquainted😉</h1>
