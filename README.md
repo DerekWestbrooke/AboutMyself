@@ -18,7 +18,7 @@
 ###
 
 <div align="left">
-  <img src="ico/с.png" height="50" alt="c logo"  />
+  <img src="ico/c.png" height="50" alt="c logo"  />
   <img width="12" />
   <img src="ico/c_pp.png" height="50" alt="c_pp logo"  />
   <img width="12" />
@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="ico/postgre.png" height="50" alt="postgre logo"  />
   <img width="12" />
-  <img src="ico/wmvare.png" height="50" alt="wmvare logo"  />
+  <img src="ico/vmware.png" height="50" alt="wmvare logo"  />
   <img width="12" />  
 </div>
 
